@@ -28,15 +28,23 @@ This Problem comes under analytics vidhya jobathon where we have to find that ex
    - Test_data 105312 records (30%)
 
 - we have 70% private test data is there we need to get gud score on 30% public test data as well as 70% private test data.
+- Data is like that
+
+![](https://raw.githubusercontent.com/govind527/Analytics-Vidhya-Jobathon-May-2021-Credit-Card-Lead-Prediction/main/Images/Picture1.png)
 
 
 ## Data Visualization
 
-### Occupation vs avg Account_Balance and occupation vs Is_Lead(interested in cred_card)
+### Occupation vs avg Account_Balance 
+![](https://raw.githubusercontent.com/govind527/Analytics-Vidhya-Jobathon-May-2021-Credit-Card-Lead-Prediction/main/Images/Picture2.png)
+### occupation vs Is_Lead(interested in cred_card)
+![](https://raw.githubusercontent.com/govind527/Analytics-Vidhya-Jobathon-May-2021-Credit-Card-Lead-Prediction/main/Images/Picture3.png)
 
 1)From the graph we observe the enterpreneur salary is high than remaining.
-2)from occupation vs Is_Lead graph enpreneurs are interested in credit products more and salaried person are less interested 
-3) the Self_employed are more in numbers and than others
+
+2)from occupation vs Is_Lead graph enpreneurs are interested in credit products more and salaried person are less interested.
+
+3) the Self_employed are more in numbers and than others.
 
 ### Age vs lead and Credit_product vs Is_Lead
 
@@ -49,9 +57,11 @@ This Problem comes under analytics vidhya jobathon where we have to find that ex
 From credit_product vs Is_lead We observe that the customers who are not using any credit products previous are not likely to take credit cards and who are using they are interested to take credit cards.
 
 ## Channel_Code
-We observe that Channel_Code X1 is used most to contact customer
-Second is X3
-X4 is used less
+![](https://raw.githubusercontent.com/govind527/Analytics-Vidhya-Jobathon-May-2021-Credit-Card-Lead-Prediction/main/Images/Picture4.png)
+
+- We observe that Channel_Code X1 is used most to contact customer
+- Second is X3
+- X4 is used less
 
 
 ## Checking Nulls:
@@ -81,6 +91,8 @@ X4 is used less
 - And saved the probabilities to submissions.csv in Is_Lead column
 
 ## Feature Importance :
+
+![](https://raw.githubusercontent.com/govind527/Analytics-Vidhya-Jobathon-May-2021-Credit-Card-Lead-Prediction/main/Images/Picture5.png)
 
 - We observe that credit product with NO have high importance to take credit card
 - Next is credit product with No
