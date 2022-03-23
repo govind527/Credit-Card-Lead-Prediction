@@ -44,7 +44,7 @@ This Problem comes under analytics vidhya jobathon where we have to find that ex
 
 2)From occupation vs Is_Lead graph enpreneurs are interested in credit products more and salaried person are less interested.
 
-3) the Self_employed are more in numbers and than others.
+3)The Self_employed are more in numbers and than others.
 
 ### Age vs lead and Credit_product vs Is_Lead
 
