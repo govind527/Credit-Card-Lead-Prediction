@@ -35,7 +35,7 @@ This Problem comes under analytics vidhya jobathon where we have to find that ex
 
 ## Data Visualization
 
-### Occupation vs avg Account_Balance 
+### Occupation vs Avg Account_Balance 
 ![](https://raw.githubusercontent.com/govind527/Analytics-Vidhya-Jobathon-May-2021-Credit-Card-Lead-Prediction/main/Images/Picture2.png)
 ### occupation vs Is_Lead(interested in cred_card)
 ![](https://raw.githubusercontent.com/govind527/Analytics-Vidhya-Jobathon-May-2021-Credit-Card-Lead-Prediction/main/Images/Picture3.png)
