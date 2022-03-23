@@ -42,7 +42,7 @@ This Problem comes under analytics vidhya jobathon where we have to find that ex
 
 1)From the graph we observe the enterpreneur salary is high than remaining.
 
-2)from occupation vs Is_Lead graph enpreneurs are interested in credit products more and salaried person are less interested.
+2)From occupation vs Is_Lead graph enpreneurs are interested in credit products more and salaried person are less interested.
 
 3) the Self_employed are more in numbers and than others.
 
