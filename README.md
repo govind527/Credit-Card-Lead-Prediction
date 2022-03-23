@@ -64,7 +64,7 @@ From credit_product vs Is_lead We observe that the customers who are not using a
 - X4 is used less
 
 
-## Checking Nulls:
+## Checking Null Value:
 - We observe about 11% records have nulls values in Credit_product feature .
 - We dont know wether they use credit product before or not so i consider those null values as third category as neutral(NA) and train the model.
 - And in stacking the removed the third column neutral so that [No,Yes] values [0,0] denotes neutral(null).
