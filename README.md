@@ -86,7 +86,7 @@ From credit_product vs Is_lead We observe that the customers who are not using a
 - I tried with RandomForesh with n_estimators=10,100 but i doesnt perform well on test data it give test score of 0.869 and 0.871. and it take much highest time among the these three models
 - I tried LightGBM with n_estimators=1000,max_depth=12 but it give score of 0.864 for me on test.
 - I used DecisionTree models because it robust to numerical values and it robust to variance in data.
-- So i finalise the XGBoost Model which give highest score on the train data. 
+- So I finalize the XGBoost Model which give highest score on the train data. 
 - I plotted the confusion matrix on overall train_data and check the TN,FN,FP,TP.
 - And saved the probabilities to submissions.csv in Is_Lead column
 
