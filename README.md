@@ -75,7 +75,7 @@ From credit_product vs Is_lead We observe that the customers who are not using a
 - The categorical Features are simply one hot encoding and counter vectorizer for some features(OHE).
 - The numerical Features are used as it is XGBoost algorithm is robust to numerical values.
 - I got 52 features from above featurization methods.
-- I tried Vintage as categorical feature and apply OHE but the perfomance is less on test data so i used as numerical data and it perform better than categorical featurization bcz in unseen data there might be a value which is not present in Train data so that category will loss and the model will underfit on test data.
+- I tried Vintage as categorical feature and apply OHE but the perfomance is less on test data so i used as numerical data and it perform better than categorical featurization because in unseen data there might be a value which is not present in Train data so that category will loss and the model will underfit on test data.
 - Avg_Account_Balance is the feature which contains high high magnitude values but DecisionTree is robust to it magnitude so i havent apply featurization.
 - Age is a numerical values but it has significance on taking Credit product. So I use exact values without scaling them. 
 
