@@ -15,7 +15,7 @@ This Problem comes under analytics vidhya jobathon where we have to find that ex
 ## Outcome
 
 - Our target of this project to build a model which predict customer interest (Yes/No).
-- This is binary classification problem.
+- This is binary Classification problem.
 - The evaluation metric is roc_auc score which uses base model probabilities of class1 to predict class outcomes it comes handy for binary classification.
 - We need to get high roc_auc score so that our prediction accuracy can be increases.
 
