@@ -48,7 +48,7 @@ This Problem comes under analytics vidhya jobathon where we have to find that ex
 
 ### Age vs lead and Credit_product vs Is_Lead
 
-- The chances of customer interest in taking credit card is high for age group between 45-55
+- The Chances of customer interest in taking credit card is high for age group between 45-55
 
 - While the younger age group between 24-32 are not much interested in taking credit product 
 
