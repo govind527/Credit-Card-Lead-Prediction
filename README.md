@@ -54,7 +54,7 @@ This Problem comes under analytics vidhya jobathon where we have to find that ex
 
 - This age features help in solving the problem
 
-From credit_product vs Is_lead We observe that the customers who are not using any credit products previous are not likely to take credit cards and who are using they are interested to take credit cards.
+From credit_product vs Is_lead We Observe that the customers who are not using any credit products previous are not likely to take credit cards and who are using they are interested to take credit cards.
 
 ## Channel_Code
 ![](https://raw.githubusercontent.com/govind527/Analytics-Vidhya-Jobathon-May-2021-Credit-Card-Lead-Prediction/main/Images/Picture4.png)
