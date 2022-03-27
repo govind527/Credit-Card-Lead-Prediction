@@ -1,5 +1,5 @@
 # Analytics-Vidhya-Jobathon-May-2021-Credit-Card-Lead-Prediction
-This Problem comes under Analytics Vidhya jobathon where we have to find that existing customers in bank will take credit card or not
+This Problem comes under Analytics Vidhya jobathon where we have to find that existing customers in bank will take credit card or not.
 
 
 ## Background
