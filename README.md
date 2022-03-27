@@ -27,7 +27,7 @@ This Problem comes under Analytics Vidhya Jobathon where we have to find that ex
    - Train_data 245725 records
    - Test_data 105312 records (30%)
 
-- We have 70% private test data is there we need to get gud score on 30% public test data as well as 70% private test data.
+- We have 70% private test data is there we need to get god score on 30% public test data as well as 70% private test data.
 - Data is like that
 
 ![](https://raw.githubusercontent.com/govind527/Analytics-Vidhya-Jobathon-May-2021-Credit-Card-Lead-Prediction/main/Images/Picture1.png)
