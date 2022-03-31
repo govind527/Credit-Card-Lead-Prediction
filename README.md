@@ -9,7 +9,7 @@ This Problem comes under Analytics Vidhya Jobathon where we have to find that ex
 - Credit Card service give bankers a gud revenue in form of bill payments. And late due fee payment.
 - But some customers want to use this service based on there requirements and some not.
 - So Banks want to check the customers whether they accept their offer or not and approach them with that feedback.
-- They require a model which can predict that customer is interested in their product or not. 
+- They Require a model which can predict that customer is interested in their product or not. 
 
 
 ## Outcome
