@@ -5,7 +5,7 @@ This Problem comes under Analytics Vidhya Jobathon where we have to find that ex
 ## Background
 
 - In Banking Credit Card is a service provide to customers that they can use money from bank and they can pay back in due time by full payout or in form of installments.
-- This service is used by many customers for they requirments like online shopping,buying goods,paying bills etc,.
+- This Service is used by many customers for they requirments like online shopping,buying goods,paying bills etc,.
 - Credit Card service give bankers a gud revenue in form of bill payments. And late due fee payment.
 - But some customers want to use this service based on there requirements and some not.
 - So Banks want to check the customers whether they accept their offer or not and approach them with that feedback.
